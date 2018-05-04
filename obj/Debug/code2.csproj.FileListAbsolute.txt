@@ -1,0 +1,7 @@
+C:\Users\mcyal\source\repos\code2\code2\bin\Debug\code2.exe.config
+C:\Users\mcyal\source\repos\code2\code2\bin\Debug\code2.exe
+C:\Users\mcyal\source\repos\code2\code2\bin\Debug\code2.pdb
+C:\Users\mcyal\source\repos\code2\code2\obj\Debug\code2.csprojResolveAssemblyReference.cache
+C:\Users\mcyal\source\repos\code2\code2\obj\Debug\code2.csproj.CoreCompileInputs.cache
+C:\Users\mcyal\source\repos\code2\code2\obj\Debug\code2.exe
+C:\Users\mcyal\source\repos\code2\code2\obj\Debug\code2.pdb
